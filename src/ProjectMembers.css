@@ -1,0 +1,23 @@
+/* ProjectMembers.css */
+.project-members {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px #0001;
+  padding: 18px 20px 12px 20px;
+  margin-bottom: 18px;
+  max-width: 400px;
+}
+.project-members h4 {
+  color: #2563eb;
+  margin-bottom: 10px;
+}
+.project-members ul {
+  margin-bottom: 10px;
+}
+.project-members form {
+  display: flex;
+  gap: 8px;
+}
+.project-members input {
+  flex: 1;
+}

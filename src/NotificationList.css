@@ -1,0 +1,20 @@
+/* NotificationList.css */
+.notification-list {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px #0001;
+  padding: 16px 18px 10px 18px;
+  margin-top: 18px;
+  max-width: 400px;
+}
+.notification-list h4 {
+  color: #2563eb;
+  margin-bottom: 10px;
+}
+.notification-list ul {
+  margin-bottom: 0;
+}
+.notification-list li {
+  font-size: 0.98rem;
+  margin-bottom: 4px;
+}

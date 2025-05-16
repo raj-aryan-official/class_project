@@ -1,0 +1,28 @@
+/* BadgeList.css */
+.badge-list {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px #0001;
+  padding: 16px 18px 10px 18px;
+  margin-top: 18px;
+  max-width: 400px;
+}
+.badge-list h4 {
+  color: #2563eb;
+  margin-bottom: 10px;
+}
+.badge-list ul {
+  margin-bottom: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.badge-list li {
+  background: #2563eb;
+  color: #fff;
+  border-radius: 16px;
+  padding: 4px 14px;
+  font-size: 0.98rem;
+  font-weight: 500;
+  list-style: none;
+}

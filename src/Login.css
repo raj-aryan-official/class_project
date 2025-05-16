@@ -1,0 +1,33 @@
+/* Login.css - Google sign in button and login area */
+.login-google-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: #fff;
+  color: #222;
+  border: none;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px #0001;
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 10px 22px;
+  cursor: pointer;
+  transition: box-shadow 0.2s, background 0.2s;
+}
+.login-google-btn:hover {
+  background: #f3f4f6;
+  box-shadow: 0 4px 16px #0002;
+}
+.login-avatar {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  margin-right: 10px;
+  border: 2px solid #2563eb33;
+}
+.login-user {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 500;
+}
